@@ -1,8 +1,4 @@
-; VA v2.3
-
-;
-; MASTER CONTROLS
-;
+;v2.3
 
 VA_GetMasterVolume(channel="", device_desc="playback")
 {
